@@ -1,1 +1,1 @@
-Hi, this is hte starting point of my portfolio
+Hi, this is the starting point of my portfolio
